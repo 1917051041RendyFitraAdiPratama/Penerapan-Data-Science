@@ -53,8 +53,7 @@ Apabila menginstal Python melalui Anaconda ataupun miniconda, Anda dapat menggun
 8. Hasil prediksi akan keluar
 
 ## Business Dashboard
-Dashboard bisnis dibuat untuk memvisualisasikan data karyawan, tingkat keluarnya karyawan, dan faktor-faktor yang mempengaruhi tingginya attrition rate. Dashboard ini akan menampilkan faktor demografis dan penghasilan, faktor pekerjaan dan kepuasan, faktor
-keseimbangan kerja dan kehidupan, dan faktor lainnya yang mempengaruhi tingginya attrition rate.
+Dashboard bisnis dibuat untuk memvisualisasikan data karyawan, tingkat keluarnya karyawan, dan faktor-faktor yang mempengaruhi tingginya attrition rate. Dashboard ini akan menampilkan faktor demografi dan penghasilan karyawan, faktor kepuasan dan pekerjaan, faktor keseimbangan kerja dan kehidupan, dan faktor lainnya yang mempengaruhi tingginya attrition rate.
 
 ## Conclusion
 Karyawan yang keluar cenderung memiliki umur yang muda dan belum menikah, memiliki gaji yang lebih sedikit tetapi mempunyai penghasilan lain yang lebih besar, tidak dapat menyeimbangkan antara pekerjaan dan kehidupannya, karyawan yang tidak nyaman dengan lingkungan kerjanya terutama tidak nyaman dengan atasannya, karyawan yang jarang promosi, dan banyak karyawan yang keluar dari bidang pekerjaan teknisi laboratorium, human resources, dan research scientist. Banyak juga karyawan yang keluar dari latar belakang pendidikan teknik dan marketing.
